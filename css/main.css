@@ -62,12 +62,14 @@ nav {
 .phone img {
 	margin-right: 8px;
 }
-.phone p {
+.phone a {
 	float: right;
 	font-weight: 500;
 	font-size: 18px;
 	line-height: 21px;
 	margin-left: 5px;
+	text-decoration: none;
+	color: #fff;
 }
 .header {
 	padding: 90px 0 120px 0;
